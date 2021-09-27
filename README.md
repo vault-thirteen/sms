@@ -5,4 +5,4 @@ Value type can easily be changed to floating point numbers (`float64`) by
 changing just a couple of code lines.  
 
 Usage:  
-`import "github.com/vault-thirteen/SMA"`  
+`import "github.com/vault-thirteen/sms"`  
